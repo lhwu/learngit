@@ -5,3 +5,5 @@
 3. git provide a stage area.
 
 4. create a new branch quick and simple and merge
+
+5. add stage 
