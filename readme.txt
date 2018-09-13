@@ -4,4 +4,4 @@
 
 3. git provide a stage area.
 
-4. create a branch quick & simple
+4. create a new branch quick and simple
