@@ -9,3 +9,5 @@
 5. add stage 
 
 6. reset test
+
+7. merge --no-ff
