@@ -7,3 +7,5 @@
 4. create a new branch quick and simple and merge
 
 5. add stage 
+
+6. merge --no-ff
