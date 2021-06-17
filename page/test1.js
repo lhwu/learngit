@@ -1,1 +1,1 @@
-1. pages/test.js
+console.log('test1');
