@@ -2,3 +2,4 @@ adasda
 2. console.log
 3. console.dir
 4. console.debug
+5. console.info
