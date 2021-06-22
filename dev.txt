@@ -4,3 +4,4 @@ adasda
 4. console.debug
 5. console.info
 6.xx
+6.xx
